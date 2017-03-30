@@ -1,0 +1,89 @@
+/* Teams are distinguished by different colours. */
+
+div
+{
+	padding-left:16px;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+    background-color: #4CAF50;
+    color: white;
+}
+
+h1 
+{
+    text-align-last: center;
+	color: #b30000;
+	font-size: 34pt;
+}
+
+h2,h3,h4
+{
+	text-align-last: left;
+	font-size: 32pt;
+	color: #707070;
+}
+
+#top 
+{
+	
+}
+	
+.list
+{
+    font-family: Arial, sans-serif;
+	font-size: 16pt;
+	text-align: left;
+}
+	
+
+}
+
+p 
+{
+    text-align: justify;
+	font-size: 16pt;
+	line-height: 2em;
+}
+
+div.bad 
+{
+    width: 60%;
+	margin: auto;
+	height: 100%;
+	text-align: center;
+}
+
+body 
+{
+	background colour: #f2f2f2;
+	margin-top: 0%;
+	font-family: Arial, sans-serif;
+}
+
+dl
+{
+	font-size: 16pt;
+	text-align: justify;
+	line-height: 1.5em;
+}
