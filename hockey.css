@@ -58,7 +58,7 @@ h2,h3,h4
 	
 .wrap 
 {
-    background: url(nhllogo.png) no-repeat center center fixed ;
+    background: url(nhllogo.gif) no-repeat center center fixed ;
 	width: 100%;
 	background-size: cover;
 }
