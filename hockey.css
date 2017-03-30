@@ -52,17 +52,15 @@ h2,h3,h4
 .list
 {
     font-family: Arial, sans-serif;
-	font-size: 14pt;
+	font-size: 16pt;
 	text-align: left;
-}
-	
-
 }
 
 p 
 {
-    text-align: justify;
-	font-size: 14pt;
+    	font-family: Arial,sans-serif
+	text-align: justify;
+	font-size: 16pt;
 	line-height: 2em;
 }
 
@@ -83,7 +81,7 @@ body
 
 dl
 {
-	font-size: 14pt;
+	font-size: 16pt;
 	text-align: justify;
 	line-height: 1.5em;
 }
